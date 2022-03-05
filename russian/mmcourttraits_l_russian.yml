@@ -1,0 +1,11 @@
+﻿l_russian:
+    trait_musician_1:0 "Послушник"
+    trait_musician_1_character_desc:0 "Послушнику по имени [ROOT.GetCharacter.GetFirstNameNoTooltip] проявляет интерес к музыкальному исскуству, и пытается изучить его [ROOT.Char.GetHerselfHimself]."
+    trait_musician_2:0 "Уверенный композитор"
+    trait_musician_2_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] имеет опыт в области музыки, будь то игра на флейте или гармония на арфе."
+    trait_musician_3:0 "Великолепный маэстро"
+    trait_musician_3_character_desc:0 "Завораживающими и восхитительными мелодиями, [ROOT.GetCharacter.GetFirstNameNoTooltip] может захватывать дух с помощью [ROOT.Char.GetHerHis] возвышенных мелодий."
+    trait_musician_1_desc:0 "Этот персонаж имеет интерес в области музыки, и пытается изучить его [ROOT.Char.GetHerselfHimself]."
+    trait_musician_2_desc:0 "Этот персонаж имеет опыт в области музыки, будь то игра на флейте или гармония на арфе"
+    trait_musician_3_desc:0 "Завораживающими и восхитительными мелодиями, этот персонаж может захватывать дух с помощью возвышенных мелодий"
+    trait_lifestyle_musician:0 "Музыкант"

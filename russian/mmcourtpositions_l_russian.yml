@@ -1,0 +1,4 @@
+﻿l_russian:
+  court_position_musician_3_trait:0 "[GetTrait('musician_3').GetName( ROOT.Char )]"
+  court_position_musician_2_trait:0 "[GetTrait('musician_2').GetName( ROOT.Char )]"
+  court_position_musician_1_trait:0 "[GetTrait('musician_1').GetName( ROOT.Char )]"

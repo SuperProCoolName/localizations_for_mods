@@ -1,0 +1,5 @@
+﻿l_russian:
+ activity_musicfestival:0 "музыкальный фестиваль"
+ activity_musicfestival_name:0 "Музыкальный фестиваль персонажа [ACTIVITY.GetOwner.GetNamePossessiveOrMy|U]"
+ activity_musicfestival_owner:0 "Покровитель"
+ activity_musicfestival_desc:0 "[ACTIVITY.GetOwner.GetTitledFirstName] пригласил всех высокопоставленных лиц в королевстве с изумлением и весельем наблюдать за тем, как музыканты демонстрируют свой талант в надежде получить покровительство при престижном дворе."

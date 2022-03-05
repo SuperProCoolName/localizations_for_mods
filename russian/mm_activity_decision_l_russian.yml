@@ -1,0 +1,13 @@
+﻿l_russian:
+  host_musicfair_decision:0 "Провести музыкальный фестиваль"
+  host_heavenly_musicfair_decision:0 "Провести божественный музыкальный фестиваль"
+  host_melodic_musicfair_decision:0 "Провести мелодичный музыкальный фестиваль"
+  host_grand_musicfair_decision:0 "Провести великий музыкальный фестиваль"
+  host_modest_musicfair_decision:0 "Провести скромный музыкальный фестиваль"
+  host_musicfair_decision_tooltip:0 "Пройдет #bold музыкальный фестиваль#!"
+  host_musicfair_decision_opening_desc:0 "#F Пригласите всех высокопоставленных лиц в королевстве с изумлением и весельем понаблюдать за тем, как музыканты демонстрируют свой талант в надежде получить покровительство при престижном дворе. Это хороший шанс восстановить связи с вассалами и найти новых друзе.#!"
+  host_musicfair_decision_desc_vassals:0 "Может увеличить [opinion|E] ваших вассалов о вас"
+  host_musicfair_decision_desc_liege_opinion:0 "Может увеличить [opinion|E] вашего сюзерена о вас"
+  host_musicfair_decision_desc_court_musician_opinion:0 "#P Поскольку у вас есть $court_musician_court_position$ увеличение мнения будет более существенным.#!"
+  host_musicfair_decision_desc_shy:0 "#N Вы не потеряете [stress|E] поскольку у вас есть [GetTrait('shy').GetName( GetPlayer )]#!"
+  host_musicfair_decision_confirm:0 "Разослать приглашения"

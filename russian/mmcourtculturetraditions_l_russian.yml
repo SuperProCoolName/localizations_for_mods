@@ -1,0 +1,4 @@
+﻿l_russian:
+ culture_parameter_musician_traits_gives_bonuses:0 "#V Стиль жизни музыканта#! [traits|E] получает дополнительные бонусы"
+ culture_parameter_musician_traits_give_learning:0 "#V Стиль жизни музыканта#! [traits|E] дает [learning|E]"
+ culture_parameter_musician_traits_more_common:0 "[characters|E] получают [GetTrait('musician_1').GetName(GetNullCharacter)], [GetTrait('musician_2').GetName(GetNullCharacter)], и [GetTrait('musician_3').GetName(GetNullCharacter)] [traits|E] чаще"

@@ -1,0 +1,50 @@
+﻿l_russian:
+  #SmallStringInstrumentName
+  lute:0 "лютня"
+  citole:0 "цитол"
+  dulcimer:0 "дульцимер"
+  fiddle:0 "скрипка"
+  vielle:0 "фидель"
+  gittern:0 "гитерн"
+  guitarra:0 "гитара"
+  hurdygurdy:0 "колёсная лира"
+  mandolin:0 "мандолина"
+  oud:0 "уд"
+  rebab:0 "ребаб"
+  rebec:0 "ребек"
+  viol:0 "виолончель"
+  
+  #LargeStringInstrumentName
+  harp:0 "арфа"
+  psalterium:0 "псалтерий"
+  
+  #TwoPersonStringInstrumentName
+  organistrum:0 "органистр"
+  
+  #PercussionInstrumentName
+  adufe:0 "адуф"
+  bumbulum:0 "бумбулум"
+  cymbals:0 "тарелки"
+  framedrum:0 "барабан"
+  naqareh:0 "гоша нагара"
+  glockenspiel:0 "глокеншпиль"
+  tabor:0 "тамбурин"
+  timbrel:0 "тимпан"
+  
+  #SmallWindInstrumentName
+  bagpipes:0 "волынки"
+  bellowspipe:0 "сильфонная труба"
+  bladderpipe:0 "волынка в виде мочевого пузыря"
+  crumhorn:0 "крамхорн"
+  flageolet:0 "флажолет"
+  recorder:0 "флейта"
+  sackbut:0 "свирель"
+  shawm:0 "шоум"
+  taborpipe:0 "волынка-тамбурин"
+  zampogna:0 "волынка"
+
+  #TactileSmallWindInstrumentName
+  portativeorgan:0 "орган-портатив"
+
+  #LargeWindInstrumentName
+  organ:0 "орган"
