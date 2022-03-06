@@ -39,7 +39,7 @@
   musicfair_mainevent_default.0107.c:0 "Не волнуйся об этом, [giant_musician.GetFirstName], с нами всеми такое бывало."
   musicfair_mainevent_default.0108.t:0 "#bold Музыкальный фестиваль:#! Похожие души"
   musicfair_mainevent_default.0108.desc:0 "Ах, что за вечер. Между божественными мелодиями и великолепным вином была еще и отличная беседа. [other_attendee_musicfair.GetTitledFirstName] - такой интересный человек, мы провели весь вечер подробно рассуждая всевозможные темы, которые обычно не упоминаются в разговорах. Кто знал что у нас так много общего?"
-  musicfair_mainevent_default.0108.a:0 "Я бы хотел, чтоб больше дней заканчивалось так."
+  musicfair_mainevent_default.0108.a:0 "Хотелось бы, чтоб больше дней заканчивалось так."
   musicfair_mainevent_default.0109.t:0 "#bold Музыкальный фестиваль:#! Похоть витает в воздухе"
   musicfair_mainevent_default.0109.desc:0 "Музыкант по имени [seduction_musician.GetFirstName] перехватывает дыхание у всех, и не только из-за [seduction_musician.GetHerHis] умения с таким инструментов, как [ROOT.Char.Custom('SmallStringInstrumentName')]. О [seduction_musician.GetHerHis] красоте ходят легенды и [seduction_musician.GetHerHis] выступления источают уверенность. Ох... как мои чресла жаждут [seduction_musician.GetHerHim]."
   musicfair_mainevent_default.0109.a:0 "Я поймаю [seduction_musician.GetHerHim] после выступления, для.. *кхм* поздравлений за кулисами."
