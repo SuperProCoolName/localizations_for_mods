@@ -30,4 +30,10 @@
  tradition_revered_huntsmen_desc:1 "Эта культура поддерживает образ жизни охотников-собирателей более ранней эпохи."
  tradition_mercenary_bands_name:0 "Банды наемников"
  tradition_mercenary_bands_desc:1 "Наемники — неотъемлемая часть военной истории этой культуры, и они регулярно пополняют преданные своему делу силы правителя."
- 
+ tradition_historians_name:0 "Историки"
+ tradition_historians_desc:1 "Эта культура уже достигла своего апогея, а авторитетные семьи обеспечивают руководство."
+ culture_parameter_can_write_epic:0 "[rulers|E] могут составить эпос"
+ tradition_jus_primae_noctis_name:0 "Jus Primae Noctis"
+ tradition_jus_primae_noctis_desc:1 "Правители имеют право первой ночи, к большому разочарованию женихов."
+ culture_parameter_adulterer_trait_gives_bonuses:0 "[trait|E] [GetTrait('adulterer').GetName( GetNullCharacter )] дает дополнительные бонусы"
+ max_seduce_schemes_add: "Максимальных происков по совращению"
