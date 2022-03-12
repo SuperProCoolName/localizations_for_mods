@@ -1,4 +1,5 @@
 ﻿l_russian:
+
  numdian:0 "Нумидийская конница"
  numdian_flavor:0 "Лучшая кавалерия Карфагена, эти легкие всадники остались наследием пунического города-государства несмотря на Римскую империю."
  huntsmen:0 "Почтенные охотники"
@@ -37,3 +38,6 @@
  tradition_jus_primae_noctis_desc:1 "Правители имеют право первой ночи, к большому разочарованию женихов."
  culture_parameter_adulterer_trait_gives_bonuses:0 "[trait|E] [GetTrait('adulterer').GetName( GetNullCharacter )] дает дополнительные бонусы"
  max_seduce_schemes_add: "Максимальных происков по совращению"
+ tradition_battlefield_heroism_name:0 "Боевой героизм"
+ tradition_battlefield_heroism_desc:1 "Героев почитают за их храбрость на поле боя."
+ culture_parameter_brave_trait_gives_bonuses:0 "[trait|E] [GetTrait('brave').GetName( GetNullCharacter )] дает дополнительные бонусы"
