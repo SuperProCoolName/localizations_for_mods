@@ -1,0 +1,6 @@
+﻿l_russian:
+foh_expansion_conquest:0 "Захват-расширение"
+foh_expansion_conquest_CB_NAME:0 "Захват-расширение против [DEFENDER.GetPrimaryTitle.GetNameNoTier]"
+foh_expansion_conquest_CB_SPECIFIC_NAME:0 "Захват-расширение против [DEFENDER.GetPrimaryTitle.GetBaseNameNoTier]"
+foh_expansion_conquest_WAR_NAME:0 "Захват-расширение против [DEFENDER.GetPrimaryTitle.GetNameNoTier]"
+foh_expansion_conquest_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"

@@ -12,7 +12,4 @@ foh_fateofempires_intellect_county_modifier:0 "Эпоха разума"
 foh_fateofempires_intellect_county_modifier_desc:0 "Богатство теперь доступно и для стремления к знаниям. Получение академических почестей теперь является высшим стремлением для людей."
 
 foh_fateofempires_decadence_county_modifier:0 "Эпоха упадка"
-foh_fateofempires_decadence_county_modifier_desc:0 "Развращенное деньгами и властью, это царство медленно распадается."
-
-foh_fateofempires_restructure_county_modifier:0 "Реструктуризация"
-foh_fateofempires_restructure_county_modifier_desc:0 "Оправившись от больших невзгод, это государство пытается стабилизироваться."
+foh_fateofempires_decadence_county_modifier_desc:0 "Развращенное деньгами и властью, это государство медленно распадается."

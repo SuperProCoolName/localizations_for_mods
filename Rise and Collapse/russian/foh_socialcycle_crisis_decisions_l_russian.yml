@@ -1,0 +1,15 @@
+﻿l_russian:
+foh_socialcycle_crisis_control_decisions:0 "Восстановить контроль"
+foh_socialcycle_crisis_control_decisions_tooltip:0 "Восстановить контроль!"
+foh_socialcycle_crisis_control_decisions_desc:0 "Отправить войска для поддержания порядка."
+foh_socialcycle_crisis_control_decisions_confirm:0 "Восстановить контроль"
+
+foh_socialcycle_crisis_opinion_decisions:0 "Улучшить народное мнение"
+foh_socialcycle_crisis_opinion_decisions_tooltip:0 "Улучшить народное мнение"
+foh_socialcycle_crisis_opinion_decisions_desc:0 "Дать налоговые льготы, чтобы заслужить благосклонность."
+foh_socialcycle_crisis_opinion_decisions_confirm:0 "Улучшить народное мнение"
+
+foh_socialcycle_crisis_tax_decisions:0 "Увеличить налоги"
+foh_socialcycle_crisis_tax_decisions_tooltip:0 "Увеличить налоги"
+foh_socialcycle_crisis_tax_decisions_desc:0 "Увеличить налоги, чтобы предотвратить крах королевства."
+foh_socialcycle_crisis_tax_decisions_confirm:0 "Увеличить налоги"

@@ -1,0 +1,7 @@
+﻿l_russian:
+ 
+ rule_foh_sandbox_rule:0 "Rise and Collapse Режим песочницы"
+ setting_foh_sandobx_off:1 "Выкл"
+ setting_foh_sandobx_off_desc:0 ""
+ setting_foh_sandobx_on:1 "Вкл"
+ setting_foh_sandobx_on_desc:0 ""

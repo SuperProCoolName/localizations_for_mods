@@ -1,0 +1,20 @@
+﻿l_russian:
+foh_expansion_phase_sandbox_decision:0 "Войти в эпоху расширения"
+foh_expansion_phase_sandbox_decision_tooltip:0 "Войти в эпоху расширения"
+foh_expansion_phase_sandbox_decision_desc:0 "Ваше королевство войдет в эпоху расширения"
+foh_expansion_phase_sandbox_decision_confirm:0 "Войти в эпоху расширения"
+
+foh_stagnation_phase_sandbox_decision:0 "Войти в эпоху стагнации"
+foh_stagnation_phase_sandbox_decision_tooltip:0 "Войти в эпоху стагнации"
+foh_stagnation_phase_sandbox_decision_desc:0 "Ваше королевство войдет в эпоху стагнации"
+foh_stagnation_phase_sandbox_decision_confirm:0 "Войти в эпоху стагнации"
+
+foh_crisis_phase_sandbox_decision:0 "Войти в эпоху кризиса"
+foh_crisis_phase_sandbox_decision_tooltip:0 "Войти в эпоху кризиса"
+foh_crisis_phase_sandbox_decision_desc:0 "Ваше королевство войдет в эпоху кризиса"
+foh_crisis_phase_sandbox_decision_confirm:0 "Войти в эпоху кризиса"
+
+foh_depression_phase_sandbox_decision:0 "Войти в эпоху упадка"
+foh_depression_phase_sandbox_decision_tooltip:0 "Войти в эпоху депрессии"
+foh_depression_phase_sandbox_decision_desc:0 "Ваше королевство войдет войдет в эпоху упадка"
+foh_depression_phase_sandbox_decision_confirm:0 "Войти в эпоху упадка"
