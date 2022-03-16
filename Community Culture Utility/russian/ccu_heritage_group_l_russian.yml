@@ -1,0 +1,35 @@
+﻿l_russian:
+
+#############################################
+# CCU Patcher
+# by Vertimnus
+# This file was compiled by a machine.
+# It should never be manually edited.
+#############################################
+
+culture_parameter_heritage_group_arabic:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Арабскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_balto_finnic:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Балто-финскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_balto_slavic:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Балто-славянскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_berber:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Берберскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_burmese:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Бирманскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_byzantine:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Византийскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_celtic:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Кельтскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_central_african:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Центральноафриканскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_chinese:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Китайскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_dravidian:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Дравидийскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_east_african:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Восточноафриканскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_finno_ugric:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Финно-угрскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_germanic:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Германскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_indo_aryan:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Индо-арийскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_iranian:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Иранскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_latin:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Латинскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_levantine:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Левантийскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_mongolic:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Монгольскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_sahelian:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Сахелианскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_siberian:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Сибирскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_tibeto_qiangic:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Тибето Цянгикскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_tocharian:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Тохарскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_turkic:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Тюркскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_ugro_permian:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Угро-пермскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_volga_finnic:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Волга-финскую [Concept( 'heritage_group', 'группу наследия' )|E]"
+culture_parameter_heritage_group_west_african:0 "#P +[EmptyScope.ScriptValue('same_heritage_group_cultural_acceptance')|0]#! [cultural_acceptance_baseline|E] с культурами, разделяющими Западноафриканскую [Concept( 'heritage_group', 'группу наследия' )|E]"
